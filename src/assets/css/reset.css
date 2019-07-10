@@ -1,0 +1,15 @@
+body,html,ul,h1,h2,h3,p{
+    margin:0;
+}
+ul,ol{
+    padding:0;
+    list-style:none;
+}
+img{
+    border:none;
+    display: block；
+}
+a{
+    text-decoration: none;
+    color:#000;
+}
